@@ -4,4 +4,4 @@ chmod +x info.sh
 #Run the script by running:
 ./info.sh
 
-#The file displays memory and disk usage information as well as network information.
+#The file displays memory and disk usage information as well as network and user information.
