@@ -12,5 +12,3 @@ echo
 
 echo "Network info:"
 ip a
-
-aaa
