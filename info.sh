@@ -12,3 +12,8 @@ echo
 
 echo "Network info:"
 ip a
+echo
+
+
+echo "User info:"
+who
